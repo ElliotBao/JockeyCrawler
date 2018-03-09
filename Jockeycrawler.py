@@ -66,8 +66,8 @@ def login(url):
     # res = session.get('http://www.hkhorsedb.com/cseh/clist_result.php?vref=37347').content  
   
     login_data = {  
-        'uname': 'yican',  
-        'pass': '123456',  
+        'uname': '***',  
+        'pass': '***',  
         'op': 'login'  
     }  
     user_agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36"
